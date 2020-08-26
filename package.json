@@ -1,0 +1,16 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Suvodeep Das",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.1"
+  },
+  "dependencies": {},
+  "description": "TDD explanation"
+}
